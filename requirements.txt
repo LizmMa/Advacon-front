@@ -1,0 +1,7 @@
+kivy
+plyer
+requests
+pillow
+pyobjus
+functools
+re
